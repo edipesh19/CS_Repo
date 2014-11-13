@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grades", "..\Grades\Grades.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataStructure", "..\Buffer\DataStructure.csproj", "{F36E265F-9326-4A6E-82A1-FD7BBF0B1FDB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare", "..\Compare\Compare.csproj", "{45791FFE-8679-4BD8-8A92-EEFF60B96AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaningUpGenerics", "..\CleaningUpGenerics\CleaningUpGenerics.csproj", "{10829628-9BCF-49D7-BD76-B1866B8EFB99}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,6 +23,14 @@ Global
 		{F36E265F-9326-4A6E-82A1-FD7BBF0B1FDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F36E265F-9326-4A6E-82A1-FD7BBF0B1FDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F36E265F-9326-4A6E-82A1-FD7BBF0B1FDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45791FFE-8679-4BD8-8A92-EEFF60B96AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45791FFE-8679-4BD8-8A92-EEFF60B96AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45791FFE-8679-4BD8-8A92-EEFF60B96AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45791FFE-8679-4BD8-8A92-EEFF60B96AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10829628-9BCF-49D7-BD76-B1866B8EFB99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10829628-9BCF-49D7-BD76-B1866B8EFB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10829628-9BCF-49D7-BD76-B1866B8EFB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10829628-9BCF-49D7-BD76-B1866B8EFB99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
