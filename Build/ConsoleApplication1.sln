@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare", "..\Compare\Compa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CleaningUpGenerics", "..\CleaningUpGenerics\CleaningUpGenerics.csproj", "{10829628-9BCF-49D7-BD76-B1866B8EFB99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericMethod", "..\GenericMethod\GenericMethod.csproj", "{5D336BA9-C776-402F-B19B-698571A0745E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtensionMethods", "..\ExtensionMethods\ExtensionMethods.csproj", "{84B7A476-8056-429A-9A8D-4EA69AC0BD4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -31,6 +35,14 @@ Global
 		{10829628-9BCF-49D7-BD76-B1866B8EFB99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{10829628-9BCF-49D7-BD76-B1866B8EFB99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{10829628-9BCF-49D7-BD76-B1866B8EFB99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D336BA9-C776-402F-B19B-698571A0745E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D336BA9-C776-402F-B19B-698571A0745E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D336BA9-C776-402F-B19B-698571A0745E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D336BA9-C776-402F-B19B-698571A0745E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84B7A476-8056-429A-9A8D-4EA69AC0BD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B7A476-8056-429A-9A8D-4EA69AC0BD4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B7A476-8056-429A-9A8D-4EA69AC0BD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B7A476-8056-429A-9A8D-4EA69AC0BD4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
